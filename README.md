@@ -1,5 +1,5 @@
 # N-Ary tree depth-Logic Programming
-Author : Z.D.E.   Contact : nplayer960@gmail.com    All rights reserved !   Please do not change the code !
+Author : Z.D.E.   Contact : nplayer960@gmail.com    All rights reserved ! 2017   Please do not change the code !
 GNU-PROLOGUE : Representation of "N-Ary tree depth"
 
 The code gives us the ability to calculate the depth of N-ary tree in logic programming, instead of a binary tree where the
@@ -21,5 +21,4 @@ X = 4
 311, 312 and 313 have no children
 
 Depth is 4
-
 https://drive.google.com/open?id=0B5GnLn47gBIkUlJQNEN4TDdnSF9YTjBPdG11SkliNnpVUlhR
