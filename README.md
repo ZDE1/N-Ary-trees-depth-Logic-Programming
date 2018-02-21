@@ -1,4 +1,4 @@
-# N-Trees-Prologue
+# N-Ary tree depth-Logic Programming
 GNU-PROLOGUE : Representation of N-Trees
 
 The code gives us the ability calculate the depth of N-ary tree in logic programming, instead of a binary tree where the
